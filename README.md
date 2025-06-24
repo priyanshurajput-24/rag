@@ -1,4 +1,4 @@
-## RAG fro CSV and PDF
+## RAG for CSV and PDF
 
 * We need `GROQ_API_KEY` for running it as in a `.env` file. 
 * Create and activate virtual env
