@@ -1,0 +1,5 @@
+Feature,Without MCP,With MCP                            
+LLM understands data,Only via prompt,Via schema-aware context            
+Reusability,Manual prompts per case,Dynamic function & table invocation 
+Accuracy,Varies with phrasing,Much more consistent and precise    
+Speed,Prompt overhead,Faster schema-routed queries       
